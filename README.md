@@ -1,8 +1,8 @@
-# R Analytics Projects
+# R Analytics Project
 
-Data analysis projects in R covering data cleaning, visualization, and statistical modeling.
+Data analysis project in R covering data cleaning, visualization, and statistical modeling.
 
-## Projects
+## Project
 
 | Project | Summary | Methods |
 |---|---|---|
