@@ -26,6 +26,9 @@ My Spotify Liked Songs export: audio features (energy, valence, danceability, ac
 - The explanation for the age effect is a hypothesis; the regression doesn't test it.
 - The data covers one person's library, so the results describe my taste only.
 
+## Files
+- [`Spotify_Analysis.R`](): full analysis code (cleaning, charts, regression, robustness check)
+- [`Spotify_Analysis.pdf`](): written report
 
 ## Tools
 R · tidyverse · ggplot2 · broom
