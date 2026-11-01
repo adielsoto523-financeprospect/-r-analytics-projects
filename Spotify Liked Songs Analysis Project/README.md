@@ -27,8 +27,8 @@ My Spotify Liked Songs export: audio features (energy, valence, danceability, ac
 - The data covers one person's library, so the results describe my taste only.
 
 ## Files
-- `Spotify_Analysis.R`: full analysis code (cleaning, charts, regression, robustness check)
-- `Spotify_analysis.pdf`: written report
+- [`Spotify_Analysis.R`](Spotify_Analysis.R): full analysis code (cleaning, charts, regression, robustness check)
+- [`Spotify_analysis.pdf`](Spotify_analysis.pdf): written report
 
 ## Tools
 R · tidyverse · ggplot2 · broom
