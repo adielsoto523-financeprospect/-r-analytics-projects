@@ -28,7 +28,7 @@ My Spotify Liked Songs export: audio features (energy, valence, danceability, ac
 
 ## Files
 - [`Spotify_Analysis.R`](https://github.com/adielsoto523-financeprospect/-r-analytics-projects/blob/main/Spotify%20Liked%20Songs%20Analysis%20Project/Spotify%20Analysis.R): full analysis code (cleaning, charts, regression, robustness check)
-- [`Spotify_Analysis.pdf`](): written report
+- [`Spotify_Analysis.pdf`](https://github.com/adielsoto523-financeprospect/-r-analytics-projects/blob/main/Spotify%20Liked%20Songs%20Analysis%20Project/Spotify%20Analysis.pdf): written report
 
 ## Tools
 R · tidyverse · ggplot2 · broom
